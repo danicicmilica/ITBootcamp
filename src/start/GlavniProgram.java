@@ -2,7 +2,7 @@ package start;
 
 import java.util.Scanner;
 
-//GDE TI JE EXCEL FILE?
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
